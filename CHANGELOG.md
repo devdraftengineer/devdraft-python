@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.3 (2025-11-12)
+
+Full Changelog: [v0.0.2...v0.0.3](https://github.com/devdraftengineer/devdraft-python/compare/v0.0.2...v0.0.3)
+
+### Bug Fixes
+
+* **compat:** update signatures of `model_dump` and `model_dump_json` for Pydantic v1 ([c963798](https://github.com/devdraftengineer/devdraft-python/commit/c9637981a4c4689dc788f2884479462d646b714f))
+
 ## 0.0.2 (2025-11-11)
 
 Full Changelog: [v0.0.1...v0.0.2](https://github.com/devdraftengineer/devdraft-python/compare/v0.0.1...v0.0.2)
